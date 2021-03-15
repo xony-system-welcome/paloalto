@@ -2,7 +2,7 @@ Upgrade version capture\
 https://docs.google.com/document/d/1JU9B1KeRyPWmjz-_YwaGqcOKTRwjBCviEKE6kggcSc4/edit?usp=sharing
 
 ---
-##### Basic Command
+###### Basic Command
 > Ping host {IP}
 ---
 
