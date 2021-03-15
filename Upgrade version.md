@@ -2,6 +2,9 @@ Upgrade version capture\
 https://docs.google.com/document/d/1JU9B1KeRyPWmjz-_YwaGqcOKTRwjBCviEKE6kggcSc4/edit?usp=sharing
 
 ---
+Basic Command
+```> Ping host {IP}t```
+---
 
 1. View version\
 ```> debug swm list```
