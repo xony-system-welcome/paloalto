@@ -3,7 +3,7 @@ https://docs.google.com/document/d/1JU9B1KeRyPWmjz-_YwaGqcOKTRwjBCviEKE6kggcSc4/
 
 ---
 Basic Command
-```> Ping host {IP}t```
+> Ping host {IP}
 ---
 
 1. View version\
