@@ -2,7 +2,7 @@ Upgrade version capture\
 https://docs.google.com/document/d/1JU9B1KeRyPWmjz-_YwaGqcOKTRwjBCviEKE6kggcSc4/edit?usp=sharing
 
 ---
-###### Basic Command
+###### Basic Command\
 ```> Ping host {IP}```
 ---
 ##### 1.Basic Setup and check about IP and version
@@ -29,16 +29,16 @@ https://docs.google.com/document/d/1JU9B1KeRyPWmjz-_YwaGqcOKTRwjBCviEKE6kggcSc4/
 ```# commit```
 
 ##### 2.Backup configuration file
-2.1. Entering Configuration mode
+2.1. Entering Configuration mode\
 ```> configure```
 
-2.2. Configuration file save
+2.2. Configuration file save\
 ```# save config to 2021-03-15_configuration.xml```
 
-2.3. Exit
+2.3. Exit\
 ```# exit```
 
-2.4. Export configuration file
+2.4. Export configuration file\
 ```# scp export configuration from 2021-03-15_configuration.xml to username@scpserver/PanConfigs```
 
 
@@ -49,7 +49,7 @@ https://docs.google.com/document/d/1JU9B1KeRyPWmjz-_YwaGqcOKTRwjBCviEKE6kggcSc4/
 3.2. List and check PAN-OS\
 ```> request system software check```
 
-If have't list upgrade version we can upload folder on GUI.
+If have't list upgrade version we can upload folder on GUI.\
 
 3.3. Download PAN-OS version\
  ```> request system software download version x.x.x```
