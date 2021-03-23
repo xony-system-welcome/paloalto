@@ -4,6 +4,8 @@ https://docs.google.com/document/d/1JU9B1KeRyPWmjz-_YwaGqcOKTRwjBCviEKE6kggcSc4/
 ---
 #### Basic Command
 ```> Ping host {IP}```
+```> commit；使用```
+```> commit force；强制使用```
 
 ---
 #### 1.Basic Setup and check about IP and version
