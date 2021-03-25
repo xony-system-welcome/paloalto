@@ -9,24 +9,24 @@ Reboot system for previous version\
 ```> request restart system```
 
 #### Rollback
-Auto boot PA maint mode
+Auto boot PA maint mode\
 ```> debug system maintenance-mode```
 
-Select run mode
+Select run mode\
 ```PANOS (Maint)```
 
-Continue
+Continue\
 ```Continue```
 
-Select Recovery Rool
+Select Recovery Rool\
 ```Factory Reset```
 
-Advanced Password
+Advanced Password\
 ```MA1NT```
 
-Select image, then factory reset
+Select image, then factory reset\
 ```Panos-x.x.x```
 ```Factory Reset```
 
-Rebook run system
+Rebook run system\
 ```Rebook```
