@@ -1,0 +1,27 @@
+Base setup:
+
+Create two Palo alto on Vmware.
+  
+Start the Palo alto and waiting login page about 10min (After startup, even it shows the login page, you/we still need to wait for 5 minutes to login)
+
+Paloalto default username/password: admin/admin
+
+
+Check the palo alto information:
+Display hostname, IP, gateway, mac-address, uptime, model, serial, license, version.
+>show system info
+  
+Display usage rate about CPU, memory.
+https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClUbCAK
+>show system resources
+ 
+Dispaly the maximun number of sessions for each VSYS on virtual system
+https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClVECA0
+>show session meter
+ 
+Display thermal, fans and power status.
+https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClW2CAK
+>show system environmentals
+
+Set interface ip:
+  
